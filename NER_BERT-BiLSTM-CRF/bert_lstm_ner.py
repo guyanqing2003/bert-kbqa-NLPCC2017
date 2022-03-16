@@ -6,6 +6,7 @@ BASED ON Google_BERT.
 reference from :zhoukaiyin/
 
 @Author:Macan
+# tq20220316
 """
 
 from __future__ import absolute_import
