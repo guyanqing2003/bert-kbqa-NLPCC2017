@@ -1,5 +1,6 @@
 # bert-kbqa-NLPCC2017
 A trial of kbqa based on bert for NLPCC2016/2017 Task 5
+this is my file
 
 
 ## Step1: Get the entity from question with BERT-BiLSTM-CRF
